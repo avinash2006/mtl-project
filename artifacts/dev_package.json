@@ -1,0 +1,48 @@
+{
+	"id": "eb5a5c10-22d2-ed11-af38-00155d001a05",
+	"createdAt": "2023-04-03T13:18:50.833Z",
+	"createdBy": "avinash",
+	"git": {
+		"remote": "https://github.com/avinash2006/mtl-project"
+	},
+	"name": "saDSAD",
+	"description": null,
+	"ver": "23.4.3.1520",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [
+		{
+			"id": "1259e372-3581-ed11-af33-00155d001a05",
+			"name": "mtl_flt_plan_status_master",
+			"description": "FLT Job Plan Status Master"
+		}
+	],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"media_library": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}

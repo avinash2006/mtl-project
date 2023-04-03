@@ -1,0 +1,92 @@
+[
+	{
+		"id": "f97a3f7a-f764-4a2e-a2aa-c13f4e73e46a",
+		"createdAt": "1671630464076",
+		"updatedAt": "1671630464076",
+		"createdBy": "avinash",
+		"updatedBy": "avinash",
+		"status_code": "START",
+		"status_text": "Start of Picking"
+	},
+	{
+		"id": "c94d75dc-a379-4a0e-b5e7-ddc21eff5ab3",
+		"createdAt": "1671630451450",
+		"updatedAt": "1671630451450",
+		"createdBy": "avinash",
+		"updatedBy": "avinash",
+		"status_code": "INPICK",
+		"status_text": "In Picking"
+	},
+	{
+		"id": "a89d438c-69b5-4757-893f-cdb7b7a6f945",
+		"createdAt": "1672929934475",
+		"updatedAt": "1672930002905",
+		"createdBy": "mluca",
+		"updatedBy": "mluca",
+		"status_code": "ON_HOLD",
+		"status_text": "Job is on hold"
+	},
+	{
+		"id": "a2d7b973-a7c5-4f18-a3fa-5d7f84440a8b",
+		"createdAt": "1672929934475",
+		"updatedAt": "1672930002905",
+		"createdBy": "mluca",
+		"updatedBy": "mluca",
+		"status_code": "SCAN_TARGET",
+		"status_text": "Need to scan target location"
+	},
+	{
+		"id": "a169a72b-5c64-49b4-922e-1338ce78ef3b",
+		"createdAt": "1672929934475",
+		"updatedAt": "1672930002905",
+		"createdBy": "mluca",
+		"updatedBy": "mluca",
+		"status_code": "ASK_QUANTITY",
+		"status_text": "Need to ask quantity for the trip"
+	},
+	{
+		"id": "9b7f335f-c47d-43c4-b36e-11f1afe6f2b7",
+		"createdAt": "1672929934475",
+		"updatedAt": "1672930002905",
+		"createdBy": "mluca",
+		"updatedBy": "mluca",
+		"status_code": "ASK_SPLITTING",
+		"status_text": "Need to ask for splitting"
+	},
+	{
+		"id": "82f16cef-9fe6-464d-8a9b-48a1c0ef89ce",
+		"createdAt": "1672929934475",
+		"updatedAt": "1672930002905",
+		"createdBy": "mluca",
+		"updatedBy": "mluca",
+		"status_code": "QUALITY_CHECK",
+		"status_text": "Need to do quality check"
+	},
+	{
+		"id": "691d5c9a-7310-464c-a0a3-5ddd84246e2e",
+		"createdAt": "1671630432946",
+		"updatedAt": "1671630432946",
+		"createdBy": "avinash",
+		"updatedBy": "avinash",
+		"status_code": "SCHEDULED",
+		"status_text": "Planned"
+	},
+	{
+		"id": "5f9d61e5-5f3a-4f00-b1d0-2d4e2b9e3f71",
+		"createdAt": "1680528466038",
+		"updatedAt": "1680528466038",
+		"createdBy": "avinash",
+		"updatedBy": "avinash",
+		"status_code": "DUMMY",
+		"status_text": "DUMMY"
+	},
+	{
+		"id": "31d8972b-0c16-47c8-8a56-bd394d56cc87",
+		"createdAt": "1671630476548",
+		"updatedAt": "1671630476548",
+		"createdBy": "avinash",
+		"updatedBy": "avinash",
+		"status_code": "COMPLETE",
+		"status_text": "Completed"
+	}
+]

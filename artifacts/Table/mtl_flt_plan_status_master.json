@@ -1,0 +1,31 @@
+{
+	"id": "1259e372-3581-ed11-af33-00155d001a05",
+	"createdAt": "2022-12-21T13:43:29.210Z",
+	"createdBy": "avinash",
+	"fields": [
+		{
+			"id": "90dca2df-a10a-4948-95c2-38204344ac18",
+			"fieldName": "status_code",
+			"fieldType": "text",
+			"description": "Status Code",
+			"isNullable": false
+		},
+		{
+			"id": "e59e2ea8-bad2-40e0-a9ab-7a68462dceaf",
+			"fieldName": "status_text",
+			"fieldType": "text",
+			"description": "Satus",
+			"isNullable": true
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "mtl_flt_plan_status_master",
+	"description": "FLT Job Plan Status Master",
+	"ver": "23.4.3.1540",
+	"enableAudit": false,
+	"includeDataInPackage": true,
+	"package": "eb5a5c10-22d2-ed11-af38-00155d001a05",
+	"rolesRead": [],
+	"rolesWrite": []
+}
